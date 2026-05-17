@@ -2,7 +2,7 @@
 
 ## Identitas Tim
 - **Nama Tim**   : Tim Suez
-- **Anggota**    : [ISI NAMA ANGGOTA]
+- **Anggota**    : Alvin Muhamad Shabiq Kurniawan	707012400048, Rovalina Andini	707012400111, Indria Olivia Br Sembiring	707012400076
 - **Institusi**  : Telkom University
 - **Divisi**     : Big Data Challenge (BDC) — Case 1
 
@@ -59,7 +59,7 @@ pip install transformers==4.41.0 datasets accelerate openpyxl scikit-learn panda
 
 ## Cara Menjalankan
 
-### Di Google Colab (Rekomendasi)
+### Di Google Colab
 1. Buka [https://colab.research.google.com](https://colab.research.google.com)
 2. Klik `File → Upload notebook` → pilih `Tim_Suez_MBG_Classifier_Colab.ipynb`
 3. Aktifkan GPU: `Runtime → Change runtime type → T4 GPU → Save`
